@@ -14,7 +14,7 @@ CREATE TABLE users(
 );
 
 CREATE TABLE pledge(
-  id INTEGER, PRIMARY KEY,
+  id INTEGER PRIMARY KEY,
   amount FLOAT,
   user_id INTEGER,
   project_id INTEGER
