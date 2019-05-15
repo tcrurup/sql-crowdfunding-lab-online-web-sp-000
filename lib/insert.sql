@@ -1,1 +1,1 @@
-INSERT INTO USERS ()
+INSERT INTO users(users.name, usersage) VALUES ("Steve", 42)
