@@ -1,5 +1,5 @@
 INSERT INTO users(users.name, usersage) VALUES ("Oliver", 80)
-INSERT INTO users(users.name, usersage) VALUES ("Jack", 42)
+INSERT INTO users(users.name, usersage) VALUES ("Jack", 22)
 INSERT INTO users(users.name, usersage) VALUES ("George", 42)
 INSERT INTO users(users.name, usersage) VALUES ("Noah", 42)
 INSERT INTO users(users.name, usersage) VALUES ("Charlie", 42)
