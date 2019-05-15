@@ -20,22 +20,22 @@ INSERT INTO users(name, age) VALUES ("Isabella", 51);
 INSERT INTO users(name, age) VALUES ("Grace", 39);
 
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Booze Money", "Personal", 75.00, "5/15/19", "5/29/19")
+  VALUES("Booze Money", "Personal", 75.00, "5/15/19", "5/29/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Moving To LA", "Personal", 3250.00, "5/15/19", "6/15/19")
+  VALUES("Moving To LA", "Personal", 3250.00, "5/15/19", "6/15/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Animal Shelter Upgrade", "Chrity", 2000.00, "5/21/19", "7/21/19")
+  VALUES("Animal Shelter Upgrade", "Chrity", 2000.00, "5/21/19", "7/21/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Gaming System", "Entertainment", 300.00, "5/15/19", "5/22/19")
+  VALUES("Gaming System", "Entertainment", 300.00, "5/15/19", "5/22/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Vacation", "Travel", 2450.75, "5/15/19", "5/29/19")
+  VALUES("Vacation", "Travel", 2450.75, "5/15/19", "5/29/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Music Festival", "Personal", 500.00, "6/1/19", "6/15/19")
+  VALUES("Music Festival", "Personal", 500.00, "6/1/19", "6/15/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Rent", "Personal", 600.00, "5/15/19", "5/29/19")
+  VALUES("Rent", "Personal", 600.00, "5/15/19", "5/29/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Self Filling Water Bottle", "Fitness", 200.00, "5/15/19", "5/15/29")
+  VALUES("Self Filling Water Bottle", "Fitness", 200.00, "5/15/19", "5/15/29");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("Shrink Ray", "Sci Fi", 8000.23, "6/1/19", "7/1/19")
+  VALUES("Shrink Ray", "Sci Fi", 8000.23, "6/1/19", "7/1/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("New House", "Real Estate", 40000.00, "5/1/19", "8/1/19")
+  VALUES("New House", "Real Estate", 40000.00, "5/1/19", "8/1/19");
