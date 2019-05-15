@@ -41,3 +41,12 @@ INSERT INTO projects(title, category, funding_goal, start_date, end_date)
   VALUES("New House", "Real Estate", 40000.00, "5/1/19", "8/1/19");
   
 INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
+INSERT INTO pledges(amount, user_id, project_id)VALUES(40.50, 0, 0)
