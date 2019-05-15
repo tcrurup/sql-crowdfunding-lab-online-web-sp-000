@@ -20,4 +20,4 @@ INSERT INTO users(name, age) VALUES ("Isabella", 51);
 INSERT INTO users(name, age) VALUES ("Grace", 39);
 
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
-  VALUES("")
+  VALUES("Booze Money", "Personal", 75.00, "5/15/19", "5/29/19")
