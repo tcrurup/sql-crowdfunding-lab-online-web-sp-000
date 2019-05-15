@@ -39,3 +39,5 @@ INSERT INTO projects(title, category, funding_goal, start_date, end_date)
   VALUES("Shrink Ray", "Sci Fi", 8000.23, "6/1/19", "7/1/19");
 INSERT INTO projects(title, category, funding_goal, start_date, end_date)
   VALUES("New House", "Real Estate", 40000.00, "5/1/19", "8/1/19");
+  
+INSERT INTO pledges()
